@@ -1,0 +1,29 @@
+Hintergrund:
+7,81% / 5,47% / 6,64% / 0%
+239 / 239 / 238
+
+Textfarbe:
+62,04% / 52,34% / 50,35% / 47,78%
+
+Textfarbe Light:
+41,09% / 31,97% / 32,39% / 11,01%
+
+Rot für Kästen und Linien:
+0% / 78,99% / 58,77% / 0%
+234 / 83 / 85
+
+Linie "blau"
+67 / 142 / 204
+Höhe: 3pt
+
+"Gedecktes" Rot für Linie unten:
+3,93% / 42,56% / 32,28% / 0,06&
+238 / 169 / 159
+
+"Gedecktes" Grau für Farbe unten:
+8,45% / 6,79% / 6,92% / 50,11%
+146 / 145 / 145
+Text-Größe: 16.8pt
+
+Linie oben und unten:
+Kontur: 5pt
