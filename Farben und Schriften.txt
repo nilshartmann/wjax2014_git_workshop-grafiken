@@ -1,3 +1,15 @@
+v2 / Git-basierte Farbpalette
+
+Git Logo: 0 / 92 / 74 / 0
+RGB: 244 / 36  / 52
+Korrekt: RGB 232 / 68 / 39 
+
+
+"Gedecktes" Rot für Linie unten:
+225 / 162 / 148
+
+========================================================================
+
 Hintergrund:
 7,81% / 5,47% / 6,64% / 0%
 239 / 239 / 238
